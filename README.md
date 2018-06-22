@@ -1,4 +1,4 @@
-# GameProgrammingForBeginners
+# Game Programming For Beginners
 This is basic game programming learning and logic developing tutorials in C++.
 We have made four diffent games in C++ language with gult.h library for graphics. 
 Links of videos on Youtube.
