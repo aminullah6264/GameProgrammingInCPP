@@ -1,0 +1,30 @@
+﻿Build started 12/3/2017 6:50:32 AM.
+     1>Project "D:\Projects\Computer Graphics\MyGame\MyGame\MyGame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt gameMain.cpp
+         gameMain.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(366): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(402): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(424): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(425): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(427): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(432): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(433): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(434): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(436): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(444): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\computer graphics\mygame\mygame\gamemain.cpp(700): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\Computer Graphics\MyGame\Debug\MyGame.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Projects\Computer Graphics\MyGame\Debug\MyGame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\Computer Graphics\MyGame\Debug\MyGame.lib" /MACHINE:X86 Debug\gameMain.obj
+         MyGame.vcxproj -> D:\Projects\Computer Graphics\MyGame\Debug\MyGame.exe
+     1>Done Building Project "D:\Projects\Computer Graphics\MyGame\MyGame\MyGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.64
